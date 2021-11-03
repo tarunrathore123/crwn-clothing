@@ -1,0 +1,2 @@
+move code to git - 
+git remote add origin https://github.com/tarunrathore123/crwn-clothing.git
