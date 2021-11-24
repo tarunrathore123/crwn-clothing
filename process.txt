@@ -4,3 +4,9 @@ git status
 git add -A
 git commit -m "sending code to git"
 git push origin master
+
+
+npm install firebase
+
+
+npm install redux-persist
